@@ -90,7 +90,7 @@ Content-Type: application/json
 "even_numbers": ["334","4"],
 "alphabets": ["A","R"],
 "special_characters": ["$"],
-"sum": "339", // return sum as a string
+"sum": "339", 
 "concat_string": "Ra"
 }
 ```
