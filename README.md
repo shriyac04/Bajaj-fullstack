@@ -74,7 +74,7 @@ Content-Type: application/json
 
 ```json
 {
-  "data": [“a”,”1”,”334”,”4”,”R”, “$”]
+  "data": ["a","1","334","4","R", "$"]
 }
 ```
 
@@ -84,12 +84,12 @@ Content-Type: application/json
 {
 "is_success": true,
 "user_id": "john_doe_17091999",
-"email" : “john@xyz.com”,
-"roll_number":”ABCD123”,
-"odd_numbers": [“1”],
-"even_numbers": [“334”,”4”],
-"alphabets": [“A”,”R”],
-"special_characters": [“$”],
+"email" : "john@xyz.com",
+"roll_number":"ABCD123",
+"odd_numbers": ["1"],
+"even_numbers": ["334","4"],
+"alphabets": ["A","R"],
+"special_characters": ["$"],
 "sum": "339", // return sum as a string
 "concat_string": "Ra"
 }
@@ -103,7 +103,7 @@ Content-Type: application/json
 2. Create a new **POST** request to:  
    `http://localhost:3000/bfhl`
 3. Under the **Body** tab, select **raw** > **JSON**
-4. Paste the input array (e.g., `{"data": [“a”,”1”,”334”,”4”,”R”, “$”]}`)
+4. Paste the input array (e.g., `{"data": ["a","1","334","4","R", "$"]}`)
 5. Hit **Send**
 
 ---
