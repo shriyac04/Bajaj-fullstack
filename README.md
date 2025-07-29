@@ -1,4 +1,4 @@
-# Bajaj Finserv Full Stack Assessment – Backend API
+# Bajaj Finserv Full Stack Assessment
 
 This is a backend API built using **Node.js** and **Express.js** for the **Bajaj Finserv Full Stack Assessment**. It accepts an input array of strings and returns categorized data such as numbers, alphabets, special characters, computed sum, and reversed string.
 
