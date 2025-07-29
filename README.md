@@ -84,13 +84,13 @@ Content-Type: application/json
 {
 "is_success": true,
 "user_id": "john_doe_17091999",
-“email” : “john@xyz.com”,
-“roll_number”:”ABCD123”,
+"email" : “john@xyz.com”,
+"roll_number":”ABCD123”,
 "odd_numbers": [“1”],
 "even_numbers": [“334”,”4”],
 "alphabets": [“A”,”R”],
-“special_characters”: [“$”],
-"sum": "339" // return sum as a string
+"special_characters": [“$”],
+"sum": "339", // return sum as a string
 "concat_string": "Ra"
 }
 ```
