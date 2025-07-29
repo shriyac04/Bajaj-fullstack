@@ -101,7 +101,7 @@ Content-Type: application/json
 
 1. Open [Postman](https://www.postman.com/)
 2. Create a new **POST** request to:  
-   `http://localhost:3000/bfhl`
+   `https://bajaj-fullstack-59qa.onrender.com/bfhl`
 3. Under the **Body** tab, select **raw** > **JSON**
 4. Paste the input array (e.g., `{"data": ["a","1","334","4","R", "$"]}`)
 5. Hit **Send**
